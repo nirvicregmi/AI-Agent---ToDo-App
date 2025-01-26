@@ -3,6 +3,8 @@
 This repository contains a simple AI-powered ToDo application that supports CRUD operations. The application integrates with the OpenAI API to provide intelligent features and uses a database for persistent storage.
 
 ---
+![image](https://github.com/user-attachments/assets/f8984bf9-63ac-4997-b057-c6ee48a5d3ed)
+---
 
 ## Features
 - Create, Read, Update, and Delete (CRUD) tasks.
